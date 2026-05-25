@@ -55,7 +55,7 @@ The analysis identified significantly dysregulated genes associated with Alzheim
 
  Volcano Plot
 
-![Volcano Plot](figures/alzheimers_volcano_plot.png)
+![Volcano Plot](Figures/alzheimers_volcano_plot.png)
 
 
  Future Work
